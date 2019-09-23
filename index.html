@@ -13,8 +13,8 @@
             </div>
             <div class="hero">
             <h1>Welcome To My Webpage!</h1>
-                <div class="button2">
-                    <a href="main-nav.html" class="btn2 btn-two">Proceed</a>
+                <div class="button">
+                    <a href="main-nav.html" class="btn btn-one">Proceed</a>
                 </div>
             </div>
     </header>
