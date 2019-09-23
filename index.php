@@ -13,11 +13,11 @@
             </div>
             <div class="hero">
             <h1>Welcome To My Webpage!</h1>
-       
-            </div>
-        <div class="button">
+                <div class="button">
                     <a href="main-nav.html" class="btn btn-one">Proceed</a>
                 </div>
+       
+            </div>
     </header>
 
 </body>
